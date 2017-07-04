@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   #
 
 
-  s.source       = { :git => "https://github.com/KhunLam/LKToast", :tag => "s.version" }
+  s.source       = { :git => "https://github.com/KhunLam/LKToast.git", :tag => "s.version" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
