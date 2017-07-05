@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "LKToastTip"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "最好用的吐司提示"
 
 
@@ -43,13 +43,13 @@ Pod::Spec.new do |s|
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source_files  = "LKToastTip/*.{h,m}"
+  s.source_files  = "LKToast/LKToastTip/*.{h,m}"
 
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-    s.resources = "LKToastTip/*.{png,xib,nib,bundle,strings}"
+    s.resources = "LKToast/LKToastTip/*.{png,xib,nib,bundle,strings}"
 
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
