@@ -43,13 +43,13 @@ Pod::Spec.new do |s|
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source_files  = "LKToast/LKToastTip/*.{h,m}"
+  s.source_files  = "LKToastTip/*.{h,m}"
 
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-    s.resources = "LKToast/LKToastTip/*.{png,xib,nib,bundle,strings}"
+    s.resources = "LKToastTip/*.{png,xib,nib,bundle,strings}"
 
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
